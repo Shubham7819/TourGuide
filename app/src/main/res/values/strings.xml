@@ -1,0 +1,364 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- category names to be shown on tab layout -->
+    <string name="category_heritage">Heritage</string>
+    <string name="category_eat">Eat</string>
+    <string name="category_hospitals">Hospitals</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_picnic">Picnic</string>
+    <string name="category_shopping">Shopping</string>
+
+    <!-- rajwada details -->
+    <string name="rajwada">Rajwada</string>
+    <string name="rajwada_address">Rajwada, Indore, Madhya Pradesh 452002</string>
+    <string name="rajwada_webaddress">Indo-Saracenic Revival architecture</string>
+    <string name="rajwada_details">Rajwada is a historical palace in Indore city. It was built by the Holkars of the Maratha Empire about two centuries ago. This seven storied structure is located near the Chhatris and serves today as a fine example of royal grandeur and architectural skills.</string>
+
+    <!-- lalbagh details -->
+    <string name="lalbagh">Lal Bagh Palace</string>
+    <string name="lalbagh_address">Nai Duniya, Revenue Colony, Indira nagar, Indore, Madhya Pradesh 452007</string>
+    <string name="lalbagh_details"><![CDATA[Lavish 19th-century palace of the Holkar dynasty, in a mix of baroque, rococo & neoclassical styles.]]></string>
+
+    <!-- museum details -->
+    <string name="museum">Indore Museum</string>
+    <string name="museum_address">Near GPO Square, Navlakha, Indore, Madhya Pradesh 452001</string>
+    <string name="museum_details">Indore Museum is museum situated in Indore in Madhya Pradesh state in India. It is located near the General Post Office in Indore.There are two galleries in the Museum.The artefacts exhibited in the museum range from the prehistoric to the modern era.It was established in 1929. It is also known as Central Museum.</string>
+
+    <!-- zoo details -->
+    <string name="zoo">Kamla Nehru Prani Sangrahalay</string>
+    <string name="zoo_address">Agra Bombay Road, Navlakha, Indore, Madhya Pradesh 452001</string>
+    <string name="zoo_details">Kamla Nehru Prani Sangrahalaya or Indore Zoo is a zoological garden located in Navlakha, Indore is fully owned and managed by Indore Municipal Corporation. This is the largest zoological garden of the state and one of the oldest zoological parks of Madhya Pradesh spread over an area of 4000 sq m.</string>
+
+    <!-- khajrana details -->
+    <string name="khajrana">Khajrana Ganesh Temple</string>
+    <string name="khajrana_address">Khajrana Main Rd, Khajrana Mandir, Ganeshpuri, Khajrana, Indore, Madhya Pradesh 452016</string>
+    <string name="khajrana_details">Khajrana Ganesh Temple is a pilgrimage center in Indore, dedicated to Lord Ganpanti. Built during reign of Holkar dynasty.</string>
+
+    <!-- annapurna details -->
+    <string name="annapurna">Annapurna Temple</string>
+    <string name="annapurna_address">Annapurna Mandir, Kranti Kriplani Nagar, Indore, Madhya Pradesh 452009</string>
+    <string name="annapurna_details"><![CDATA[Prominent temple dedicated to the Hindu goddess of food featuring an ornate gate & elephant statues.]]></string>
+
+    <!-- bijasan details -->
+    <string name="bijasan">Bijasan Mata Temple Indore</string>
+    <string name="bijasan_address">Devi Ahillyabai Holkar Airport Area, Indore, Madhya Pradesh 453112</string>
+    <string name="bijasan_details">Bijasan is one of the temples of the Hindu goddess Durga, situated in Indore District of Madhya Pradesh, India.</string>
+
+    <!-- gandhi hall details -->
+    <string name="gandhi_hall">Gandhi Hall</string>
+    <string name="gandhi_hall_address">51, Mahatma Gandhi Rd, Shastri Market, New Siyaganj, Indore, Madhya Pradesh 452007</string>
+    <string name="gandhi_hall_details"><![CDATA[Art & culture exhibitions in a 1904 hall with elaborate Indo-Gothic windows, minarets & domes.]]></string>
+
+    <!-- chhatri details -->
+    <string name="chhatri">Krishna Pura Chhatri</string>
+    <string name="chhatri_address">Mahatma Gandhi Road, Rajwada, Maharaja Tukoji Rao Holker Cloth Market, Indore, Madhya Pradesh 452007</string>
+    <string name="chhatri_details"><![CDATA[Cenotaphs from the late 1800s memorializing Holkar rulers with wall carvings & statues.]]></string>
+
+    <!-- gommatagiri details -->
+    <string name="gommatagiri">Gommatagiri Digambar Jain Temple</string>
+    <string name="gommatagiri_address">Major district Road, Indore, Madhya Pradesh 257112</string>
+    <string name="gommatagiri_details">Hindu temple with statues on a serene hilltop offering scenic views of the city.</string>
+
+    <!-- white church details -->
+    <string name="white_church">White Church Indore</string>
+    <string name="white_church_address">Pipliyahana Road, White Church Colony, Indore, Madhya Pradesh 452001</string>
+
+    <!-- ranjeet hanuman details -->
+    <string name="ranjeet_hanuman">Shri Ranjeet Hanuman Mandir</string>
+    <string name="ranjeet_hanuman_address">Shri Ranjeet Hanuman Mandir Indore, Indore West, Footikothi Road, Gumasta Nagar, Scheme 71, Indore, Madhya Pradesh 452009</string>
+
+    <!-- devguradia details -->
+    <string name="devguradia">Devguradia Temple</string>
+    <string name="devguradia_address">Dudhia, Indore, Madhya Pradesh 452016</string>
+
+    <!-- gopal mandir details -->
+    <string name="gopal_mandir">Gopal Mandir</string>
+    <string name="gopal_mandir_address">120, Dhar Road, Rajwada, Indore, Madhya Pradesh 452002</string>
+
+    <!-- harsiddhi details -->
+    <string name="harsiddhi">Harsiddhi Mata Temple</string>
+    <string name="harsiddhi_address">Moti Tabela, Chhatribagh, Indore, Madhya Pradesh 452007</string>
+
+    <!-- kanch mandir details -->
+    <string name="kanch_mandir">Kanch Mandir</string>
+    <string name="kanch_mandir_address">Hukumchand Marg, Opposite Kaanch Mandir, Itwaria Bazaar, Indore, Madhya Pradesh 452002</string>
+
+    <!-- poha jalebi details -->
+    <string name="poha_jalebi">Poha-Jalebi</string>
+    <string name="chappan">Chappan Dukan</string>
+    <string name="poha_jalebi_details">Indori poha (flattened rice) is a specialty that is served with a mountain of sev and pomegranate seeds as breakfast, along with jalebi. The jalebi in Indore is also a lighter version of the one available in Delhi, sans the colour and essence and made with a lighter sugar syrup. The poha-jalebi combination is unique to Indore and many shops in Chappan Dukan (a row of 56 shops) in New Palasia serve it early in the morning</string>
+
+    <string name="dal_bafle">Dal Bafle</string>
+    <string name="sarafa">Sarafa</string>
+    <string name="dal_bafle_details">Dal Bafle is a close cousin of the Rajasthani dal baati churma. The Bafla is a oven baked ball made with wheat and semolina. It is crushed and dipped in ghee before being served. A light dal, churma (a powdered sweet), ladoos (made of rava or semolina), coriander-mint chutney and mango pickle are what accompany the bafla.</string>
+
+    <string name="butta_kees">Bhutte Ka Kees</string>
+    <string name="bhutta_kees_address">Joshi Dahi Bada House</string>
+    <string name="bhutta_kees_details">Bhutte ki kees is an Indori delicacy, made with grated corn that is roasted in ghee, mixed with mild spices and garnished with coriander leaves and lemon juice before serving.</string>
+
+    <string name="kachori">Indori Kachori</string>
+    <string name="kachori_details">Kachoris are round dough balls stuffed with potatoes, onion, daal and served with coriander/mint chutney and sweet tamarind chutney. Best had at Vijay\'s outlet at Chappan chowk.</string>
+
+    <string name="khichdi">Sabudna Khichdi</string>
+    <string name="khichdi_details">Another popular local favourite, made of soaked tapioca. Especially eaten during festivals and fasting. Saawariya and Prashant\'s shops are famous for their sabudana khichdi.</string>
+
+    <string name="dahi_vadas">Dahi Vadas</string>
+    <string name="dahi_vadas_details">Deep-fried, savoury doughnuts dunked in curd till they become soft enough to melt in the mouth. Best sampled at Joshiji ke dahivade at Sarafa.</string>
+
+    <string name="patties">Khopra patties</string>
+    <string name="patties_details">Khopra Patties or Aloo Patties are potato balls, filled with coconut and deep fried. Vijay Chaat Bhandaar in Chappan is especially known for these.</string>
+
+    <string name="garadu">Fried Garadu</string>
+    <string name="garadu_details">Garadu is a root that is cut into cubes, deep-fried, almost doused in lemon juice and served with a garnish of fresh coriander leaves and a special chat masala. This is an Indori specialty - unlikely to be found elsewhere.</string>
+
+    <string name="bhajiyas">Moong Dal bhajiyas</string>
+    <string name="bhajiyas_details">Moong dal is soaked and ground along with mild spices, before being released as bite-sized balls into a pan of hot oil. The resultant pakodis are served with a fresh coriander-mint chutney. Perfect for an evening snack coupled with tea in an earthen kulhad.</string>
+
+    <string name="namkeens">Indori Namkeens</string>
+    <string name="namkeens_details">Indore\'s large variety of namkeens are almost as famous as the local food. Hing (asafoetida) sev and Laung (clove) sev are especially popular.</string>
+
+    <string name="tikki">Aloo tikki</string>
+    <string name="tikki_details">Mildly spiced, mashed potatoes are rolled into a ball, stuffed with a filling of daal, and then pan-fried. This aloo tikki is topped with curd and chutneys to make one of the most craving-worthy snacks that\'s served across most cities in the north of India.</string>
+
+    <string name="chaat">Papdi Chat</string>
+    <string name="chaat_details">Another common north-Indian chat item, papdi chaat is quite famous in Indore too. Crispy flour disks called papdis are combined with potatoes and chutneys to make a delectable dish.</string>
+
+    <string name="greater_kailash">Greater Kailash Hospital</string>
+    <string name="greater_kailash_address">11/2, Old Palasia, Near Palasia Thana, Indore, Madhya Pradesh 452018</string>
+    <string name="greater_kailash_contact">0731 663 3333</string>
+    <string name="greater_kailash_web">http://www.gkh.co.in/</string>
+    <string name="greater_kailash_details">greater kailash hospital</string>
+
+    <string name="macretina">Macretina Hospital</string>
+    <string name="macretina_address">Shekhar central, 212, Agra Bombay Rd, Manorama Ganj, Indore, Madhya Pradesh 452001</string>
+    <string name="macretina_contact">0731 249 8886</string>
+    <string name="macretina_web">http://www.macretinahospital.com/</string>
+    <string name="macretina_details">Hours:   Friday\t8AM–8PM Saturday\t8AM–8PM Sunday\tClosed Monday\t8AM–8PM Tuesday\t8AM–8PM Wednesday\t8AM–8PM Thursday\t8AM–8PM</string>
+
+    <string name="bombay_hospital">Bombay Hospital</string>
+    <string name="bomday_hospital_address">IDA Scheme No.94/95, Eastern Ring Road, Tulsi Nagar, Vijay Nagar, Indore, Madhya Pradesh 452010</string>
+    <string name="bombay_hospital_contact">0731 255 8866</string>
+    <string name="bombay_hospital_web">http://www.bombayhospitalindore.com/</string>
+    <string name="bombay_hospital_details">Open 24 hours</string>
+
+    <string name="chl">CHL Hospital Indore</string>
+    <string name="chl_address">A.B. Road, Near L.I.G Square, Indore, Madhya Pradesh 452008</string>
+    <string name="chl_contact">0731 477 4444</string>
+    <string name="chl_web">http://www.chlhospitals.com/</string>
+    <string name="chl_details">Open 24 hours</string>
+
+    <string name="shalby">Shalby Hospital, Indore</string>
+    <string name="shalby_address"><![CDATA[Part 5 & 6, R S bhandari Marg, Janjeerwala Square, Indore, Madhya Pradesh 452003]]></string>
+    <string name="shalby_contact">0731 667 7777</string>
+    <string name="shalby_web">https://www.shalby.org/</string>
+    <string name="shalby_details">Open 24 hours</string>
+
+    <string name="apollo_hospital">Apollo Hospitals</string>
+    <string name="apollo_hospital_address">Scheme No. 74 C, Sector D, Vijay Nagar, Indore, Madhya Pradesh 452010</string>
+    <string name="apollo_hospital_contact">0731 244 5566</string>
+    <string name="apollo_hospital_web">https://www.apollohospitals.com/locations/india/indore</string>
+    <string name="apollo_hospital_details">Open 24 hours</string>
+
+    <string name="bapat_hospital">Bapat Hospital</string>
+    <string name="bapat_hospital_address">Bapat Square, Pandit Dindayal Upadhyay Nagar, Pandit Din Dayal Upadhyay Nagar, Sukhlia, Indore, Madhya Pradesh 452010</string>
+    <string name="bapat_hostpital_contact">098260 55666</string>
+    <string name="bapat_hospital_details">Open 24 hours</string>
+
+    <string name="gokuldas_hospital">Gokuldas Hospital Indore</string>
+    <string name="gokuldas_hospital_address">11, Sarju Prasad Marg, Indore, Madhya Pradesh 452001</string>
+    <string name="gokuldas_hospital_contact">0731 251 9212</string>
+    <string name="gokuldas_hospital_web">http://www.gokuldashospital.com/</string>
+    <string name="gokuldas_hospital_details">Open 24 hours</string>
+
+    <string name="bhandari_hospital">Bhandari Hospital and Research Centre</string>
+    <string name="bhandari_hospital_address">21-23 G F, Scheme No. 54 Opp. Meghdoot Garden, Madhya Pradesh 452010</string>
+    <string name="bhandari_hospital_contact">0731 400 3333</string>
+    <string name="bhandari_hospital_web">http://www.bhrcindia.com/</string>
+    <string name="bhandari_hospital_details">Open 24 hours</string>
+
+    <string name="life_care">Life Care Hospital</string>
+    <string name="life_care_address">Scheme No 78 - II, Scheme Number 78, Part II, Vijay Nagar, Indore, Madhya Pradesh 452010</string>
+    <string name="life_care_contact">0731 244 4444</string>
+    <string name="life_care_web">http://www.lifecarehospital.co.in/</string>
+    <string name="life_care_details">Open 24 hours</string>
+
+    <string name="choithram">Choithram Hospital and Research Centre</string>
+    <string name="choithram_address">14, Manik Bagh Road, Indore, Madhya Pradesh 452014</string>
+    <string name="choithram_contact">0731 236 2491</string>
+    <string name="choithram_web">http://www.choithram.org/</string>
+    <string name="choithram_details">Open 24 hours</string>
+
+    <string name="radisson">Radisson Blu Hotel Indore</string>
+    <string name="radisson_address">12, Ring Rd, Scheme No 94 Sector EB, Indore, Madhya Pradesh 452010</string>
+    <string name="radisson_contact">0731 473 8888</string>
+    <string name="radisson_web">https://www.radissonblu.com/en/hotel-indore?s_cid=os.apac-IN-blu-INDINDR-gmb</string>
+    <string name="radisson_details">5-star hotel</string>
+
+    <string name="lemon_tree">Lemon Tree Hotel</string>
+    <string name="lemon_tree_address">3, R.N.T. Road, Indore, Madhya Pradesh 452001</string>
+    <string name="lemon_tree_contact">0731 442 3232</string>
+    <string name="lemon_tree_web">https://www.lemontreehotels.com/lemon-tree-hotel/indore/hotel-indore.aspx</string>
+    <string name="lemon_tree_details">3-star hotel</string>
+
+    <string name="daksh">Treebo Daksh Residency</string>
+    <string name="daksh_address">16/GF, Scheme No. 54, Opposite Meghdoot Garden, Vijay Nagar, Indore, Madhya Pradesh 452001</string>
+    <string name="daksh_contact">099261 66777</string>
+    <string name="daksh_web"><![CDATA[https://www.treebo.com/hotels-in-indore/treebo-daksh-residency-vijay-nagar-156/?utm_source=partnerships&utm_campaign=dakshresidency&utm_medium=gplus]]></string>
+    <string name="daksh_details">3-star hotel</string>
+
+    <string name="effotel">Effotel Hotel</string>
+    <string name="effotel_address">Plot No. 10-C/ C.A Scheme No. 94, Sector C, Indore, Madhya Pradesh 452010</string>
+    <string name="effotel_contact">0731 474 0000</string>
+    <string name="effotel_web">https://www.effotelhotels.com/</string>
+    <string name="effotel_details">3-star hotel</string>
+
+    <string name="ginger_hotel">Ginger Hotel</string>
+    <string name="ginger_hotel_address">Agra Bombay Road, Off NH 3, Beside Raj TV Office, Near Shaniwar Darpan Post, LIG Square, Choti Khajrani, Indore, Madhya Pradesh 452008</string>
+    <string name="ginger_hotel_contact">0731 666 3333</string>
+    <string name="ginger_hotel_web"><![CDATA[https://www.gingerhotels.com/ginger-indore?utm_source=Indore%20GBL&utm_medium=link&utm_campaign=Business%20Listing%20Link]]></string>
+    <string name="ginger_hotel_details">3-star hotel</string>
+
+    <string name="hotel_president">Hotel President</string>
+    <string name="hotel_president_address">163, RNT Marg, Thanewala Terrace, Opp. Nehru Statue, South Tukoganj, Indore, Madhya Pradesh 452001</string>
+    <string name="hotel_president_contact">0731 423 2425</string>
+    <string name="hotel_president_web">http://www.hotelpresidentindore.com/contact-us.html</string>
+    <string name="hotel_president_details">3-star hotel</string>
+
+    <string name="sayaji">Sayaji Hotel</string>
+    <string name="sayaji_address">Scheme 54, H/1, Vijay Nagar, Indore, Madhya Pradesh 452010</string>
+    <string name="sayaji_contact">0731 400 6666</string>
+    <string name="sayaji_web">https://www.sayajihotels.com/sayaji-indore-five-star-hotel/</string>
+    <string name="sayaji_details">4-star hotel</string>
+
+    <string name="marriott">Marriott Hotel</string>
+    <string name="marriott_address">H-2, Scheme No 54, Meghdoot Garden, Vijay Nagar, Indore, Madhya Pradesh 452010</string>
+    <string name="marriott_contact">0731 477 7777</string>
+    <string name="marriott_web">https://www.marriott.com/hotels/travel/idrmh-indore-marriott-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</string>
+    <string name="marriott_details">5-star hotel</string>
+
+    <string name="apna_palace">Hotel Apna Palace</string>
+    <string name="apna_palace_address">Dhar Main Road, Opposite District Hospital, Loknayak Nagar, Indore, Madhya Pradesh 452002</string>
+    <string name="apna_palace_contact">099772 45452</string>
+    <string name="apna_palace_web">http://www.hotelapnapalace.com/</string>
+    <string name="apna_palace_details">4-star hotel</string>
+
+    <string name="best_western">Best Western Plus O2</string>
+    <string name="best_western_address">31/1, Main Rd, South Tukoganj, Indore, Madhya Pradesh 452001</string>
+    <string name="best_address_contact">0731 661 2222</string>
+    <string name="best_western_web">https://www.bestwestern.com/</string>
+    <string name="best_western_details">4-star hotel</string>
+
+    <string name="patalpani">Patalpani Waterfall</string>
+    <string name="patalpani_address">Mhow Tehsil</string>
+    <string name="patalpani_details">Located in Mhow Tehsil, Patalpani Waterfall is approximately 300 feet high. A hidden gem, it is a favourite picnic spot among families with its majestic beauty. During rainy seasons, the water gushes through great force, and hence, it is also ideal for specific adventure activities. A peaceful atmosphere offers a beautiful option to unwind for families. While you are visiting Patalpani Waterfall, make sure you also visit the Maheshwar, Omkareshwar and other pilgrim sites in the region. Plan a picnic around the July to October months to capture the true essence of the place.</string>
+    <string name="patalpani_timings">06:00 AM - 06:00 PM</string>
+
+    <string name="regional_park">Pipliyapala Regional Park</string>
+    <string name="regional_park_details">Also known as the Indore Regional Park offers a very tranquil atmosphere with a lake surrounded by lush greenery for a perfect family getaway. It is more like a serene oasis amidst the urban jungle. Go on a boat ride and take a picture near the water fountain to keep the memory fresh for the years to come. The French Indian Gardens will let you imagine all the possible shapes that your mind can picture. While you can pack some delicious homemade snacks, there are also food counters selling some delightful local treats.</string>
+    <string name="regional_park_timings">11:00 AM - 9:00 PM</string>
+
+    <string name="ahilya_fort">Ahilya Fort, Maheshwar</string>
+    <string name="ahilya_fort_details">Away from the noise of the world, the Ahilya Fort in Maheshwar is ranked among the favourite picnic spots for families who are interested in spending a day right next to history and river Narmada. The town of Maheshwar is 4000-year old which takes you back to an era when queen Ahilyabai Holkar ruled the place. The Fort is situated next to the picturesque ghats or river steps which offers a great site with priests chanting mantras. The Fort has been converted into a hotel which overlooks the Ahilyeshwar Temple and the river bank. The elegant architecture of the Fort will leave you mesmerised. Boat rides are the best way to enjoy the sunrise and sunset at the banks of the river.</string>
+    <string name="ahilya_fort_timings">07:00 AM - 07:00 PM</string>
+
+    <string name="gomatgiri">Gomatgiri</string>
+    <string name="gomatgiri_details">A pilgrimage site for the Jains, Gomatgiri is located at a distance of merely 10-minutes drive from the Indore airport. A 21 ft statue of Gomateshwar which is a replica of the gigantic statue of Bahubali at Shravanabelagola is a major attraction. The statue of Gomateshwar is situated at a hill. Apart from this, there are also 24 temples, each representing the 24 Tirthankaras of Jainism. Gomatgiri is a picnic spot that will reward you with the best views of the area.</string>
+    <string name="gomatgiri_timings">07:00 AM - 10:00 PM</string>
+
+    <string name="tincha_fall">Tincha Fall</string>
+    <string name="tincha_fall_details">The alluring Tincha falls are a complete entertainment package if you are planning a day out with family. A canyon as well as a gorge, the waterfalls get their name as they are located in the village Tincha.  With the sun on your face, eat outdoors with a beautiful view as the fall bloom after the rainy season. The water plummeting at the height of 300 ft. also has a pond for those who would like to take a swim in it. Trekking is another activity that you should indulge in if you are a nature lover if you are planning for a family day out here.</string>
+    <string name="_24hrs">24 Hrs</string>
+
+    <string name="janapav">Janapav</string>
+    <string name="janapav_details">It is a famous tourist spot located on the Indore-Mumbai highway. The Janapav Kuti is a mountain that offers a spectacular view of the area where you can go for a walk around or even trek your way to find a quiet spot to lay out your picnic. Around Diwali, a mega fair is also held annually which is a must-visit gala. The highest point of the Malwa plateau is a beautiful getaway during the rainy season.</string>
+
+    <string name="knps">Kamla Nehru Prani Sangrahalay</string>
+    <string name="knps_details">The idea of finding a decent picnic spot at a zoological park is undoubtedly exciting and if the place in consideration is the Kamala Nehru Park also known as Chidiya Ghar, it is even more promising. With a high entertainment quotient for all ages, it is a beautiful place to relax and explore with various options such buggy rides, elephant rides, pony rides, camel rides for an unforgettable picnic. You can also catch a glimpse of and capture a large variety of birds and animals in your camera. The toy train that goes around the park is a must-try activity at the park.</string>
+    <string name="knps_timings">9:00 AM - 5:00 PM</string>
+
+    <string name="choral_dam">Choral Dam</string>
+    <string name="choral_dam_details">The region around the Choral Dam is blissfully peaceful at any time of the year. There is ample space where you can spread out your picnic blanket to spend a lazy day with a magnificent sunrise or sunset as a backdrop to your family photograph of the day. The cool breeze in this hilly area is soothing while you munch on your favourite snacks with your near and dear ones.</string>
+
+    <string name="mohadi_falls">Mohadi Falls</string>
+    <string name="mohadi_falls_details">The breathtaking sight of water falling from a height is always thrilling, and Mohadi Waterfalls are just the perfect spot where you would take your family to visit for a picnic. Easily accessible, the Waterfall is located at a distance of 30 kms from Indore, it is an idyllic picnic spot if you are looking for a break from the monotony of life and want to be with your family.</string>
+
+    <string name="bamniya_kund">Bamniya Kund</string>
+    <string name="bamniya_kund_details">Another stunning waterfall, located approximately 37 kms from Indore, Bamniya Kund is a three-tier charming wonder of nature - a campsite, a cascade and a waterfall. Enjoy a walk through the luscious green jungle to double your appetite to savour those freshly packed sandwiches for your picnic. In pleasant weather when the grey clouds loom above, spending time in the cool stream is the picture-perfect moment at this tourist spot.</string>
+
+    <string name="meghdoot">Meghdoot Upvan</string>
+    <string name="meghdoot_details">A well-maintained garden near the Indore city, Meghdoot Upwan is considered among the most visited picnic spots in the area. The numerous variety of flowers and the colour splash all over the place will not let you stop clicking Instagram-worthy pictures of the flower beds. There is also an amusement park names a Mangal Merry Land inside the park and a dedicated recreational area for children. An ideal destination for families, Meghdoot Upwan, is located at a distance of 4 kms from Palasia.</string>
+    <string name="meghdoot_timings">7:00 AM - 7:00 PM</string>
+
+    <string name="tafreeh">Tafreeh Agro Park</string>
+    <string name="tafreeh_details">For a day with family where you get to explore fantastic adventure games at a real beauty nestled in nature\'s lap, you must visit Tafreeh to enjoy nature\'s beauty. The park offers variety of activities such as Water Maze, Cross the Hurdle, Snail\'s Pace, Lakshman Jhoola, Phantom\'s Fall, A Date with Nature, Music Gazebo and many more to let you create some picture-worthy memories while you experience the adrenaline rush take over you.</string>
+    <string name="tafreeh_timings">10:00 AM - 06:00 PM</string>
+
+    <string name="hatyari_khoh">Hatyari Khoh</string>
+    <string name="hatyari_khoh_details">Do not judge this place by its name. A delightful spot, at a distance of 33.4 kilometres in Dongarkheda village, offers a weekend getaway packed with adventure amidst natural beauty. During the rainy season, the waterfalls offer a great view although it is not fit for trekking as it has a deep trench. The platform near the top of the falls can be a splendid spot for setting out your picnic.</string>
+    <string name="hatyari_khoh_timings">09:00 AM - 06:00 PM</string>
+
+    <string name="sitlamata_falls">Sitlamata Falls</string>
+    <string name="sitlamata_falls_details">At a distance of 60 kms from the maddening crowd of the city of Indore, Sitlamata Falls is located near a village called Manpur. The Waterfalls make a lovely spot for a picnic with a majestic view of the water gushing at a tremendous speed where you can also take a dip in the freezing water once the monsoon season arrives. There are three natural caves in the area which is believed to be the hiding place of Holkar State Pindaris.</string>
+
+    <string name="sirpur_lake">Sirpur Lake</string>
+    <string name="sirpur_lake_details">For bird photography enthusiasts, a visit to the Sirpur Lake is mandatory. Declared as an IBA (an Important Bird Area), the lake receives around 150 different species of migratory as well as resident birds. To name a few, Eurasian Wigeon, Brahminy Shelduck, Zitting Cisticola, Open Billed Stork, Purple Heron, Short-Eared Owl, Singing Bushlark, Greater Flamingo and Bluethroat are some of the birds that can be spotted here. A butterfly park is also in the pipeline as a part of an ambitious plan for the Sirpur Lake. The Lake is spread over a whopping 800 acres. Escape the daily hustle and bustle of the mundane life to this peaceful green retreat with family and spend a day in nature\'s company.</string>
+    <string name="sirpur_lake_timings">06:00 AM - 07:00 PM</string>
+
+    <string name="ralamandal">Ralamandal Wildlife Sanctuary</string>
+    <string name="ralamandal_details">This beautiful wildlife and bird sanctuary is an ideal picnic spot for nature lovers. Established in the year 1981 for the conservation of flora and fauna in the region, Rala Mandal is 20 kms away from the city of Indore. Inside the sanctuary, there is also a palace which was built by the Holkers during their reign. To have a good view of the elephants, deer and others among animals and eucalyptus, teak, Chandan, Babool among the trees in the forest, one can opt for a camel ride. The perfect time to plan a picnic at Rala Mandal is between October and February.</string>
+    <string name="ralamandal_timings">9:00 AM to 6:30 PM</string>
+
+    <string name="c21">C21 Mall</string>
+    <string name="c21_address">263, Orbit Mall, A.B Road, Indore, Madhya Pradesh 452010</string>
+    <string name="c21_contact">090040 70757</string>
+    <string name="c21_web">http://www.c21malls.co.in/</string>
+    <string name="c21_details">Hours:  Saturday\t10AM–11:50PM Sunday\t10AM–11:50PM Monday\t10AM–11:50PM Tuesday\t10AM–11:50PM Wednesday\t10AM–11:50PM Thursday\t10AM–11:50PM Friday\t10AM–11:50PM</string>
+
+    <string name="ti_mall">Treasure Island Mall</string>
+    <string name="ti_mall_address">11, M.G. Road, South Tukoganj, Indore, Madhya Pradesh 452001</string>
+    <string name="ti_mall_contact">0731 475 0750</string>
+    <string name="ti_mall_web">http://www.treasureislandmall.com/</string>
+    <string name="ti_mall_details">Hours:  Saturday\t10AM–10PM Sunday\t10AM–10PM Monday\t10AM–10PM Tuesday\t10AM–10PM Wednesday\t10AM–10PM Thursday\t10AM–10PM Friday\t10AM–10PM</string>
+
+    <string name="central">Indore Central</string>
+    <string name="central_address">Treasure Island Next Mall, Regal Circle, RNT Marg, Indore, Madhya Pradesh 452001</string>
+    <string name="central_contact">0731 477 6001</string>
+    <string name="central_web">https://centralandme.com/</string>
+
+    <string name="malhar">Malhar Mega Mall</string>
+    <string name="malhar_address">299A, PO, Scheme No.54, Vijay Nagar, Indore, Madhya Pradesh 452010</string>
+    <string name="malhar_details">Hours:  Saturday\t7:45AM–12:05AM Sunday\t7:45AM–12:05AM Monday\t7:45AM–12:05AM Tuesday\t7:45AM–12:05AM Wednesday\t7:45AM–12:05AM Thursday\t7:45AM–12:05AM Friday\t7:45AM–12:05AM</string>
+
+    <string name="silver_mall">Silver Mall</string>
+    <string name="silver_mall_address">Lb39 b block, RNT Marg, Indore, Madhya Pradesh 452001</string>
+    <string name="silver_mall_details">Hours:  Saturday\t10AM–9PM Sunday\t4:30–9PM Monday\t10AM–9PM Tuesday\t10AM–9PM Wednesday\t10AM–9PM Thursday\t10AM–9PM Friday\t10AM–9PM</string>
+
+    <string name="pakiza">Pakiza</string>
+    <string name="pakiza_address">564, M.G. Road (Regal Chouraha), Indore, Madhya Pradesh 452001</string>
+    <string name="pakiza_contact">0731 400 1111</string>
+    <string name="pakiza_web">http://www.pakiza.co.in/</string>
+    <string name="pakiza_details">Hours:  Saturday\t10:30AM–9:30PM Sunday\t10:30AM–9:30PM Monday\t10:30AM–9:30PM Tuesday\t10:30AM–9:30PM Wednesday\t10:30AM–9:30PM Thursday\t10:30AM–9:30PM Friday\t10:30AM–9:30PM</string>
+
+    <string name="mangal_city">Mangal City Mall</string>
+    <string name="mangal_city_address">Plot No 4-1, Pu4 Commercial, Scheme No 54, A B Road, Scheme No 54, Indore, Madhya Pradesh 452008</string>
+    <string name="mangal_city_contact">0731 400 1532</string>
+    <string name="mangal_city_details">Hours:  Saturday\t10:45AM–11PM Sunday\t10:45AM–11PM Monday\t10:45AM–11PM Tuesday\t10:45AM–11PM Wednesday\t10:45AM–11PM Thursday\t10:45AM–11PM Friday\t10:45AM–11PM</string>
+
+    <string name="lotus_electronics">Lotus Electronics</string>
+    <string name="lotus_address">282, Nr. Mhow Naka, Revenue Colony, Usha Nagar, Indore, Madhya Pradesh 452009</string>
+    <string name="lotus_contact">0731 471 9903</string>
+    <string name="lotus_web">lotuselectronics.com</string>
+    <string name="lotus_details">Saturday 10:30AM–9:30PM  Sunday 10:30AM–9:30PM  Monday 10:30AM–9:30PM  Tuesday 10:30AM–9:30PM  Wednesday 10:30AM–9:30PM  Thursday 10:30AM–9:30PM  Friday 10:30AM–9:30PM</string>
+
+    <string name="indore">Indore</string>
+    <string name="madhya_pradesh">Madhya Pradesh</string>
+    <string name="india">India</string>
+    <string name="indore_details">Indore is a city in west-central India. It’s known for the 7-story Rajwada Palace and the Lal Baag Palace, which date back to Indore’s 19th-century Holkar dynasty. The Holkar rulers are honored by a cluster of tombs and cenotaphs at Chhatri Baag. The night market Sarafa Bazar sells street food. East is the Indo-Gothic Gandhi Hall and clock tower. The Jain temple Kanch Mandir has a mirrored mosaic interior.</string>
+
+    <string name="description">Description : </string>
+    <string name="country">Country : </string>
+    <string name="state">State : </string>
+    <string name="city">City : </string>
+
+</resources>
